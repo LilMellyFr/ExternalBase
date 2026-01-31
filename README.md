@@ -74,4 +74,5 @@ If you find this project useful:
 * Keep derivative work open-source
 
 This base exists to support learning and experimentation — nothing more.
+> Original base: https://github.com/ChimeraLle-Real/Executor [Uses MIT License, credit is not legally required, but im still doing it :)]
 
