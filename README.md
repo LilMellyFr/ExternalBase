@@ -75,6 +75,6 @@ If you find this project useful:
 
 This base exists to support learning and experimentation — nothing more.
 > Original base: https://github.com/ChimeraLle-Real/ExternalExecutor [Uses MIT License, credit is not legally required, but im still doing it :)]
-> Only first commit is licensed under MIT (https://choosealicense.com/licenses/mit/) because of Legality
+> Only first commit is licensed under MIT (see OriginalMITLicense file) because of Legality
 > All later commits are licensed under GPL (see LICENSE)
 > Shoutout Chimera!
